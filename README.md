@@ -19,6 +19,7 @@ After entering the input for the unsolved puzzle:
 
 ```
 This list of lists of the unsolved puzzle represents a sudoku board that looks like this: 
+
 ![](images/unsolvedPuzzle.png)
 
 
@@ -38,6 +39,7 @@ True
  ```
 
  This list of lists of the solved puzzle represents a solved sudoku board that looks like this:
+ 
  ![](images/solvedPuzzle.png)
 
  Source for this project: https://www.youtube.com/watch?v=8ext9G7xspg&t=6715s&ab_channel=freeCodeCamp.org 
