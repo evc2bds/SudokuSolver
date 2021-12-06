@@ -1,3 +1,5 @@
+# Source for this project: https://www.youtube.com/watch?v=8ext9G7xspg&t=6715s&ab_channel=freeCodeCamp.org 
+
 from pprint import pprint
 
 def find_next_empty(puzzle):
